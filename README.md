@@ -1,6 +1,7 @@
-# mr-name-and-watch
+![Reacme Img](./readme.png)
 
-![Example](./readme.png)
+# 👁️‍🗨️ mr-name-and-watch
+
 
 Watch a local directory and modify the file names as they are saved in the selected folder
 
